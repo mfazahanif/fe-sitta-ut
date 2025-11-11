@@ -20,6 +20,7 @@ git clone https://github.com/mfazahanif/fe-sitta-ut.git
 ```
 
 **Run project**
+
 Just run it with live server from ```login.html``` file
 
 **Login users**
